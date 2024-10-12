@@ -1,1 +1,3 @@
-echo hi
+steps {
+    shell('echo Hello World!')
+  }
